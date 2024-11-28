@@ -1,0 +1,9 @@
+# Ignore temporary files
+*.tmp
+*.log
+*.vs
+
+# Ignore package manager files
+node_modules/
+packages/
+
